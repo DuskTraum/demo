@@ -1,2 +1,4 @@
 Let's create merge conflict
 Added new text
+Create merge conflict
+
