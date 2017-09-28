@@ -1,1 +1,2 @@
-First steps to be comitted
+Let's create merge conflict
+Added new text
