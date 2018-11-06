@@ -1,2 +1,3 @@
+First file, changed from master branch
 Second file
 New text in the second file
